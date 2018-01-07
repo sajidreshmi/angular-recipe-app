@@ -1,4 +1,4 @@
-# N5CompleteGuide
+# Angular 5 Demo project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
 
